@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 1,
+    "UserEmail": "1234",
+    "Items": [
+      {
+        "Product": {
+          "Id": 1,
+          "Name": "Куртка Nike Sport Premium",
+          "Brand": "Nike",
+          "Price": 3999.99,
+          "OriginalPrice": 4999.99,
+          "ImagePath": "https://images.unsplash.com/photo-1551028719-00167b16ebc5?w=500&h=500&fit=crop",
+          "Description": "Комфортна спортивна куртка від Nike з вітрозахисною тканиною. Ідеальна для тренувань та повсякденного носіння.",
+          "Category": "Верхній одяг",
+          "Rating": 5,
+          "ReviewCount": 245,
+          "AvailableSizes": "XS,S,M,L,XL,XXL",
+          "Stock": 50,
+          "IsNew": true,
+          "IsDiscount": true,
+          "Colors": [
+            "Black",
+            "White",
+            "Gray",
+            "Black",
+            "White",
+            "Red",
+            "Blue"
+          ],
+          "CreatedDate": "2025-12-09T22:27:27.7337594+02:00"
+        },
+        "Quantity": 1,
+        "Size": "M"
+      }
+    ],
+    "TotalPrice": 3999.99,
+    "SubTotal": 3999.99,
+    "ShippingCost": 0.0,
+    "ShippingMethod": "Standard",
+    "OrderDate": "2025-12-09T22:27:45.7054196+02:00",
+    "DeliveryDate": null,
+    "Status": "Скасовано",
+    "DeliveryAddress": "dsada",
+    "DeliveryCity": "dada",
+    "DeliveryPostalCode": "dasd",
+    "DeliveryCountry": "Ukraine",
+    "DeliveryPhone": "dsadw",
+    "DeliveryName": "dqad"
+  }
+]

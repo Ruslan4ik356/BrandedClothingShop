@@ -1,0 +1,17 @@
+C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.exe
+C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.deps.json
+C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.runtimeconfig.json
+C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.dll
+C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.pdb
+C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.AssemblyInfo.cs
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedC.A5CE0777.Up2Date
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.dll
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\refint\BrandedClothingShop.dll
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.pdb
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.genruntimeconfig.cache
+C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\ref\BrandedClothingShop.dll
