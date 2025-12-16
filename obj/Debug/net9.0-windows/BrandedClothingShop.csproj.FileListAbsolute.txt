@@ -1,17 +1,26 @@
-C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.exe
-C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.deps.json
-C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.runtimeconfig.json
-C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.dll
-C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.pdb
-C:\Users\Дмитрий\BrandedClothingShop\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.csproj.AssemblyReference.cache
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.AssemblyInfoInputs.cache
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.AssemblyInfo.cs
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.csproj.CoreCompileInputs.cache
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedC.A5CE0777.Up2Date
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.dll
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\refint\BrandedClothingShop.dll
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.pdb
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.genruntimeconfig.cache
-C:\Users\Дмитрий\BrandedClothingShop\obj\Debug\net9.0-windows\ref\BrandedClothingShop.dll
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\timberland.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\джинси levis.png
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\кепка stussy.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\кроссовки new balans.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\куртка nike.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\очки ray ban.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\рубашка hugo boss.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\свитшот calvin klein.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\свитшот carhartt.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\футболка adidas.jpeg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\худи Supreme.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\img\штани Puma.jpg
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.exe
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+D:\Документы\GitHub\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.csproj.AssemblyReference.cache
+D:\Документы\GitHub\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\GitHub\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.csproj.CoreCompileInputs.cache
+D:\Документы\GitHub\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.sourcelink.json
+D:\Документы\GitHub\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedC.A5CE0777.Up2Date
+D:\Документы\GitHub\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.dll
+D:\Документы\GitHub\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.pdb
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.deps.json
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.runtimeconfig.json
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.dll
+D:\Документы\GitHub\BrandedClothingShop\bin\Debug\net9.0-windows\BrandedClothingShop.pdb
+D:\Документы\GitHub\BrandedClothingShop\obj\Debug\net9.0-windows\BrandedClothingShop.genruntimeconfig.cache

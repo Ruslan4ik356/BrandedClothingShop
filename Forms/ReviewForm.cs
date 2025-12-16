@@ -109,7 +109,7 @@ namespace BrandedClothingShop.Forms
             mainPanel.Controls.Add(_ratingLabel);
             mainPanel.Controls.Add(ratingPanel);
 
-            // Текст отзыва
+            // Текст відзиву
             var lblComment = new Label
             {
                 Text = "Ваш відзив:",

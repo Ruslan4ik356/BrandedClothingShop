@@ -47,7 +47,7 @@ namespace BrandedClothingShop.Forms
 
             topPanel.Controls.Add(lblTitle);
 
-            // Панель со списком заказов
+            // Панель зі списком замовлень
             _ordersPanel = new FlowLayoutPanel
             {
                 Dock = DockStyle.Fill,
@@ -125,7 +125,7 @@ namespace BrandedClothingShop.Forms
                 BackColor = statusColor
             };
 
-            // Номер и дата заказа
+            // Номер і дата замовлення
             var lblOrderId = new Label
             {
                 Text = $"Замовлення #{order.Id}",
@@ -154,7 +154,7 @@ namespace BrandedClothingShop.Forms
                 AutoSize = true
             };
 
-            // Способ доставки и дата доставки
+            // Спосіб доставки і дата доставки
             var shippingText = order.ShippingMethod switch
             {
                 "Express" => "Експрес-доставка (1 день)",
@@ -171,7 +171,7 @@ namespace BrandedClothingShop.Forms
                 AutoSize = true
             };
 
-            // Адрес доставки
+            // Адреса доставки
             var lblAddress = new Label
             {
                 Text = $"Адреса: {order.DeliveryCity}, {order.DeliveryAddress}",
@@ -238,7 +238,7 @@ namespace BrandedClothingShop.Forms
             btnDetails.FlatAppearance.BorderSize = 0;
             btnDetails.Click += (s, e) => ShowOrderDetails(order);
 
-            // Кнопка повтора заказа (если статус не "Скасовано")
+            // Кнопка повторення замовлення (якщо статус не "Скасовано")
             if (order.Status != "Скасовано")
             {
                 var btnReorder = new Button
@@ -256,7 +256,7 @@ namespace BrandedClothingShop.Forms
                 btnReorder.Click += (s, e) => ReorderItems(order);
                 card.Controls.Add(btnReorder);
 
-                // Кнопка отмены заказа (если статус "Обробляється")
+                // Кнопка скасування замовлення (якщо статус "Обробляється")
                 if (order.Status == "Обробляється")
                 {
                     var btnCancel = new Button

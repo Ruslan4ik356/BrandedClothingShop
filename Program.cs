@@ -18,7 +18,7 @@ namespace BrandedClothingShop
             }
             finally
             {
-                // Полностью закрыть приложение при выходе
+                
                 Application.Exit();
                 Environment.Exit(0);
             }

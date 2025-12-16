@@ -70,7 +70,7 @@ namespace BrandedClothingShop.Forms
                 Padding = new Padding(30)
             };
 
-            // Секция адреса доставки
+            // Розділ адреси доставки
             var lblDelivery = new Label
             {
                 Text = "АДРЕСА ДОСТАВКИ",

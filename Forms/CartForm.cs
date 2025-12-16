@@ -100,11 +100,11 @@ namespace BrandedClothingShop.Forms
             {
                 if (_cart.Count > 0)
                 {
-                    // Открываем форму оформления заказа
+                    // Відкриваємо форму оформлення замовлення
                     var checkoutForm = new CheckoutForm(_user, _cart);
                     if (checkoutForm.ShowDialog() == DialogResult.OK)
                     {
-                        // Заказ успешно оформлен
+                        // Замовлення успішно оформлено
                         _cart.Clear();
                         _onCartChanged(_cart);
                         this.Close();
